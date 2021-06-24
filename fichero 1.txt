@@ -1,3 +1,5 @@
+Caracteristica 4
+
 Este es el fichero 1
 
 
